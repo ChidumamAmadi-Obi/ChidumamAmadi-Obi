@@ -1,5 +1,8 @@
 ## Hi there, I'm Chidumam 👋
 - 🧑🏾‍🔬 2nd Year Mechatronics Student at TUDublin
+- 🔥 Interested in Industrial Robotics, Automation and Low Level Programming
+- 👹 Learning about SLAM (simultaneous localization and mapping)
+
 
 ![Chidumam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChidumamAmadi-Obi&show_icons=true&theme=highcontrast)
 <!--
