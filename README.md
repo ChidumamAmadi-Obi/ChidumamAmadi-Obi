@@ -1,8 +1,5 @@
 ## Hi there, I'm Chidumam 👋
 - 🧑🏾‍🔬 2nd Year Mechatronics Student at TUDublin
--
--
--
 
 ![Chidumam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChidumamAmadi-Obi&show_icons=true&theme=highcontrast)
 <!--
