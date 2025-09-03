@@ -1,5 +1,5 @@
 ## Hi there, I'm Chidumam 👋
-- 🧑🏾‍🔬 Studying 3nd Year Mechatronics Student at Technological University Dublin
+- 🧑🏾‍🔬 3nd Year Mechatronics Student at Technological University Dublin
 - 🔥 Interested in Industrial Robotics, Automation and Low Level Programming
 - 👹 Learning about SLAM (simultaneous localization and mapping) and Machine learning 
 
