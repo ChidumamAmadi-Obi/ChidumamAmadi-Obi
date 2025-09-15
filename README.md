@@ -8,11 +8,11 @@
 
 ## 🔧 Current Projects
 
-- 🕹️ [Bare-Metal STM32 Motor Driver](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver) (under construction): Custom motor control firmware, written *entirely in CMSIS, no HAL*
-- 🌡️ [Room Monitor](https://github.com/ChidumamAmadi-Obi/Room-Monitor): Arduino-based monitor for tempurture, humidity and air quality with LCD and encoder UI.
-- 💡 [Smart Lamp](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, *predictive logic and IR remote control*.
-- 🌿 [LawnBot](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, *WiFi/WebSocket control*, and obstacle avoidance.
-- ⚙️ [Omni-WheelCAD](https://github.com/ChidumamAmadi-Obi/Omni-WheelCAD): 3D CAD design for omni-wheel robotics applications.
+- 🕹️ [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver) (under construction): Custom motor control firmware, written *entirely in CMSIS, no HAL*
+- 🌡️ [**Room Monitor**](https://github.com/ChidumamAmadi-Obi/Room-Monitor): Arduino-based monitor for tempurture, humidity and air quality with LCD and encoder UI.
+- 💡 [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, *predictive logic and IR remote control*.
+- 🌿 [**LawnBot**](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, *WiFi/WebSocket control*, and obstacle avoidance.
+- ⚙️ [**Omni-WheelCAD**](https://github.com/ChidumamAmadi-Obi/Omni-WheelCAD): 3D CAD design for omni-wheel robotics applications.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChidumamAmadi-Obi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
