@@ -13,17 +13,14 @@
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-006600?style=for-the-badge&logo=kicad&logoColor=white)
+![Systems Design](https://img.shields.io/badge/Systems%20Design-222222?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge&logo=freertos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Open Source](https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-![Hardware-in-the-Loop](https://img.shields.io/badge/Hardware--in--the--Loop-FF4C00?style=for-the-badge&logo=testing-library&logoColor=white)
-![Systems Design](https://img.shields.io/badge/Systems%20Design-222222?style=for-the-badge&logo=gnometerminal&logoColor=white)
-
 
 ## 🔧 Current Projects
 
