@@ -1,9 +1,9 @@
-# Hi there, I'm Chidumam 👋
+
 - 🧑🏾‍🔬 3nd Year Mechatronics Student at Technological University Dublin
-- 🔥 Focused on robotics, embedded systems, and IoT
+- 🔥 Focused on robotics, embedded systems, and low-level firmware
 - 👹 Actively building projects that combine electronics, software, and mechanical design
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +22,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
-## 🔧 Current Projects
+## Current Projects
 
 - 🕹️ [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver) (under construction): Custom motor control firmware, written *entirely in CMSIS, no HAL*
 - 🌡️ [**Room Monitor**](https://github.com/ChidumamAmadi-Obi/Room-Monitor): Arduino-based monitor for tempurture, humidity and air quality with LCD and encoder UI.
@@ -30,6 +30,6 @@
 - 🌿 [**LawnBot**](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, *WiFi/WebSocket control*, and obstacle avoidance.
 - ⚙️ [**Omni-WheelCAD**](https://github.com/ChidumamAmadi-Obi/Omni-WheelCAD): 3D CAD design for omni-wheel robotics applications.
 
-## 📊 GitHub Stats:
+## GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=ChidumamAmadi-Obi&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChidumamAmadi-Obi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
