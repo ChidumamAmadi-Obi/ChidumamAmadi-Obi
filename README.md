@@ -8,11 +8,13 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-008080?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-B1361E?style=for-the-badge&logo=verilog&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-006600?style=for-the-badge&logo=kicad&logoColor=white)
+![FPGA](https://img.shields.io/badge/Digital-FPGA_Design-FF6B6B?style=for-the-badge)
 ![Systems Design](https://img.shields.io/badge/Systems%20Design-222222?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
 
