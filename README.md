@@ -33,5 +33,5 @@
 - ⚙️ [**Omni-WheelCAD**](https://github.com/ChidumamAmadi-Obi/Omni-WheelCAD): 3D CAD design for omni-wheel robotics applications.
 
 ## GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=ChidumamAmadi-Obi&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChidumamAmadi-Obi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=ChidumamAmadi-Obi&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChidumamAmadi-Obi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
