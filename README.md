@@ -27,6 +27,7 @@
 
 ## Current Projects
 
+- 🔗 [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU) with self-checking testbench, implementing 12+ operations with full status flags and FPGA-validated design.
 - 🕹️ [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written *entirely in CMSIS, no HAL*
 - 🌡️ [**Room Monitor**](https://github.com/ChidumamAmadi-Obi/Room-Monitor): Arduino-based monitor for tempurture, humidity and air quality with LCD and encoder UI.
 - 💡 [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, *predictive logic and IR remote control*.
