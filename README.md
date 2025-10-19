@@ -2,6 +2,7 @@
 - 🧑🏾‍🔬 3nd Year Mechatronics Student at Technological University Dublin
 - 🔥 Focused on robotics, embedded systems, and low-level firmware
 - 👹 Actively building projects that combine electronics, software, and mechanical design
+- 🛠️ Currently learning about Verilog and digital design
 
 ## Skills & Tools
 
