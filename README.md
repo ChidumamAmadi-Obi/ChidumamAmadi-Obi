@@ -4,7 +4,7 @@
 - 👹 Actively building projects that combine electronics, software, and mechanical design
 - 🛠️ Currently learning about Verilog and digital design
 
-## Skills & Tools
+### Skills & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
-## Current Projects
+### Current Projects
 
 - 🔗 [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU) with self-checking testbench, implementing 12+ operations with full status flags and FPGA-validated design.
 - 🕹️ [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written *entirely in CMSIS, no HAL*
@@ -34,6 +34,20 @@
 - 🌿 [**LawnBot**](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, *WiFi/WebSocket control*, and obstacle avoidance.
 - ⚙️ [**Omni-WheelCAD**](https://github.com/ChidumamAmadi-Obi/Omni-WheelCAD): 3D CAD design for omni-wheel robotics applications.
 
-## GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=ChidumamAmadi-Obi&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChidumamAmadi-Obi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### GitHub Stats
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidumamamadi-obi&layout=donut-vertical&theme=shadow_red&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
+</td>
+
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chidumamamadi-obi&theme=shadow_red&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chidumamamadi-obi&include_all_commits=true&rank_icon=github&theme=shadow_red&hide_border=true&no-bg=true&no-frame=true&show_icons=true" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- github profile stats form https://rebedy.github.io/posts/Github-Profile-2-GitHub-Stats/ -->
