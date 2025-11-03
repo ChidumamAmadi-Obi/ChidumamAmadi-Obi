@@ -1,8 +1,8 @@
 
-- 🧑🏾‍🔬 3rd Year Mechatronics Student at Technological University Dublin
-- 🔥 Focused on robotics, embedded systems, and low-level firmware
-- 👹 Actively building projects that combine electronics, software, and mechanical design
-- 🛠️ Currently learning about Verilog and digital design
+-  3rd Year Mechatronics Student at Technological University Dublin
+-  Focused on robotics, embedded systems, and low-level firmware
+-  Actively building projects that combine electronics, software, and mechanical design
+-  Currently learning about Verilog and digital design
 
 ### Skills & Tools
 
@@ -27,10 +27,10 @@
 
 ### Current Projects
 
-- 🔗 [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and *automatic self-checking testbench* (FPGA Validated).
-- 🕹️ [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written *entirely in CMSIS, no HAL*
-- 💡 [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, *predictive logic and IR remote control*.
-- 🌿 [**LawnBot**](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, *WiFi/WebSocket control*, and obstacle avoidance.
+- [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and *automatic self-checking testbench* (FPGA Validated).
+- [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written *entirely in CMSIS, no HAL*
+- [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, *predictive logic and IR remote control*.
+- [**LawnBot**](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, *WiFi/WebSocket control*, and obstacle avoidance.
 
 ### GitHub Stats
 <table border="0">
