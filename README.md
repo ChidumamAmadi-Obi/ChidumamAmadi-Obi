@@ -1,29 +1,41 @@
-
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      width="40"
+      height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      width="40"
+      height="40" />
+   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_verilog_icon_130092.png"
+      width="40"
+      height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      width="40"
+      height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      width="40"
+      height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      width="40"
+      height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      width="40"
+      height="40" />
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fplatformio-logo-png-transparent.png&f=1&nofb=1&ipt=8c0bcd0444b6163849007dfa848d647613fdbf196b0516eb95da2aa394c2d400"
+      width="40"
+      height="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg"
+      width="40"
+      height="40" />
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F73%2FArduino_IDE_logo.svg%2F2048px-Arduino_IDE_logo.svg.png&f=1&nofb=1&ipt=b8b6f0be722c200878342b49c9cd677e2f7d2672bb419d1f113b786688e8166e"
+      width="40"
+      height="40"/>
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2F688018.SS-7fccbbee.png%3Ft%3D1710222780%26download%3Dtrue&f=1&nofb=1&ipt=4779b390f55512d6a49d671ed5b50a77eb551e33a0bc7bf2183ea41436c769ce"
+      width="40"
+      height="40"/>
+### About
 -  3rd Year Mechatronics Student at Technological University Dublin
 -  Focused on robotics, embedded systems, and low-level firmware
 -  Actively building projects that combine electronics, software, and mechanical design
 -  Currently learning about Verilog and digital design
-
-### Skills & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-008080?style=for-the-badge&logo=c&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-B1361E?style=for-the-badge&logo=verilog&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-006600?style=for-the-badge&logo=kicad&logoColor=white)
-![FPGA](https://img.shields.io/badge/Digital-FPGA_Design-FF6B6B?style=for-the-badge)
-![Systems Design](https://img.shields.io/badge/Systems%20Design-222222?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
-
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge&logo=freertos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open--Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ### Current Projects
 
