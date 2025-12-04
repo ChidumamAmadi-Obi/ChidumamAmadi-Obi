@@ -31,6 +31,7 @@
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2F688018.SS-7fccbbee.png%3Ft%3D1710222780%26download%3Dtrue&f=1&nofb=1&ipt=4779b390f55512d6a49d671ed5b50a77eb551e33a0bc7bf2183ea41436c769ce"
       width="40"
       height="40"/>
+      
 ### About
 -  3rd Year Mechatronics Student at Technological University Dublin
 -  Focused on robotics, embedded systems, and low-level firmware
@@ -41,8 +42,8 @@
 
 - [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and automatic self-checking testbench (FPGA Validated).
 - [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written in CMSIS, without HAL
+- [**Warehouse AGV**](https://github.com/ChidumamAmadi-Obi/Warehouse-AGV) (under construction): AGV with obstacle detection, location tracking and visual/audio feedback. Integrated PS4 Bluetooth controller for remote operation.
 - [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, predictive logic and IR remote control.
-- [**LawnBot**](https://github.com/ChidumamAmadi-Obi/LawnBot) (under construction): Autonomous lawnmower robot with custom PCB, WiFi/WebSocket control, and obstacle avoidance.
 
 ### GitHub Stats
 <table border="0">
