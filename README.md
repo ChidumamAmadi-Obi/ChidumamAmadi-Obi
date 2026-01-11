@@ -31,6 +31,9 @@
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2F688018.SS-7fccbbee.png%3Ft%3D1710222780%26download%3Dtrue&f=1&nofb=1&ipt=4779b390f55512d6a49d671ed5b50a77eb551e33a0bc7bf2183ea41436c769ce"
       width="40"
       height="40"/>
+   <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"
+      width="40"
+      height="40"/>
       
 ### About
 -  3rd Year Mechatronics Student at Technological University Dublin
