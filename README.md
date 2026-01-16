@@ -43,7 +43,7 @@
 
 ### Current Projects
 
-- [**8-Bit CPU Emulator**](https://github.com/ChidumamAmadi-Obi/CPU_Emulator): Complete 8-bit CPU emulator with custom assembler, with fetch-decode-execute pipeline, ALU operations, status flags, and conditional branching.
+- [**8-Bit CPU Emulator**](https://github.com/ChidumamAmadi-Obi/CPU_Emulator): Complete 8-bit CPU emulator with custom assembler, fetch-decode-execute pipeline, ALU operations, status flags, conditional branching, and subroutine support.
 - [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and automatic self-checking testbench (FPGA Validated).
 - [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written in CMSIS, without HAL
 - [**Warehouse AGV**](https://github.com/ChidumamAmadi-Obi/Warehouse-AGV) **3rd Year Project**: AGV with obstacle detection, location tracking and visual/audio feedback. Integrated PS4 Bluetooth controller for remote operation.
