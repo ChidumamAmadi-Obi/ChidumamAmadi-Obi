@@ -42,7 +42,7 @@
 -  Currently learning about hardware acceleration and driver development
 
 ### Current Projects
-- [**FIR-Accelerator**](https://github.com/ChidumamAmadi-Obi/FIR-Accelerator): Custom Finite Impulse Response (FIR) Filter accelerator for the PULP cv32e40x core. RTL, driver and example application with X-HEEP.
+- [**FIR Filter Accelerator**](https://github.com/ChidumamAmadi-Obi/FIR-Accelerator): Custom accelerator for the PULP cv32e40x core. RTL, driver and example application with X-HEEP.
 - [**8-Bit CPU Emulator**](https://github.com/ChidumamAmadi-Obi/CPU_Emulator): Complete 8-bit CPU emulator with custom assembler, fetch-decode-execute pipeline, ALU operations, status flags, conditional branching, and subroutine support.
 - [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and automatic self-checking testbench (FPGA Validated).
 - [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written in CMSIS, without HAL
