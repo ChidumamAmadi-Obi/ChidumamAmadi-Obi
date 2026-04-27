@@ -39,14 +39,14 @@
 -  3rd Year Mechatronics Student at Technological University Dublin
 -  Focused on robotics, hardware engineering, and low-level firmware
 -  Actively building projects that combine electronics, software, and mechanical design
--  Currently learning about hardware acceleration and driver development
+-  Currently learning Automated Guided Vehicles (AGVs)
 
 ### Current Projects
 - [**FIR Filter Accelerator**](https://github.com/ChidumamAmadi-Obi/FIR-Accelerator): Custom accelerator for the PULP cv32e40x core. RTL, driver and example application with X-HEEP.
 - [**8-Bit CPU Emulator**](https://github.com/ChidumamAmadi-Obi/CPU_Emulator): Complete 8-bit CPU emulator with custom assembler, fetch-decode-execute pipeline, ALU operations, status flags, conditional branching, and subroutine support.
+- [**Warehouse AGV**](https://github.com/ChidumamAmadi-Obi/Warehouse-AGV) **3rd Year Project**: AGV with obstacle detection, location tracking and visual/audio feedback. Integrated PS4 Bluetooth controller for remote operation.
 - [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and automatic self-checking testbench (FPGA Validated).
 - [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written in CMSIS, without HAL
-- [**Warehouse AGV**](https://github.com/ChidumamAmadi-Obi/Warehouse-AGV) **3rd Year Project**: AGV with obstacle detection, location tracking and visual/audio feedback. Integrated PS4 Bluetooth controller for remote operation.
 - [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, predictive logic and IR remote control.
 
 ### GitHub Stats
