@@ -47,7 +47,6 @@
 - [**Warehouse AGV**](https://github.com/ChidumamAmadi-Obi/Warehouse-AGV) **3rd Year Project**: AGV with obstacle detection, location tracking and visual/audio feedback. Integrated PS4 Bluetooth controller for remote operation.
 - [**RISC-Style ALU**](https://github.com/ChidumamAmadi-Obi/RISC-Style-ALU): 16+ operations with full status flags and automatic self-checking testbench (FPGA Validated).
 - [**Bare-Metal STM32 Motor Driver**](https://github.com/ChidumamAmadi-Obi/Bare-Metal-Motor-Driver): Custom motor control firmware with GPIO, USART, ADC drivers, written in CMSIS, without HAL
-- [**Smart Lamp**](https://github.com/ChidumamAmadi-Obi/Smart-Lamp): Adaptive lamp with motion and ambient light sensors, predictive logic and IR remote control.
 
 ### GitHub Stats
 <table border="0">
