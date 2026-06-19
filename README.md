@@ -36,10 +36,11 @@
       height="40"/>
       
 ### About Me
--  3rd Year Mechatronics Student at Technological University Dublin
+-  Intern @ Silansys
+-  3rd Year Mechatronics Student @ Technological University Dublin
 -  Focused on robotics, hardware engineering, and low-level firmware
 -  Actively building projects that combine electronics, software, and mechanical design
--  Currently learning Automated Guided Vehicles (AGVs)
+-  Currently learning about NVM & SRAM memory verification
 
 ### Current Projects
 - [**FIR Filter Accelerator**](https://github.com/ChidumamAmadi-Obi/FIR-Accelerator): Custom accelerator for the PULP cv32e40x core. RTL, driver and example application with X-HEEP.
