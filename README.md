@@ -36,8 +36,7 @@
       height="40"/>
       
 ### About Me
--  Intern @ Silansys
--  3rd Year Mechatronics Student @ Technological University Dublin
+-  Engineering Student Intern @ Silansys, and 3rd Year Mechatronics Student @ Technological University Dublin
 -  Focused on robotics, hardware engineering, and low-level firmware
 -  Actively building projects that combine electronics, software, and mechanical design
 -  Currently learning about NVM & SRAM memory verification
